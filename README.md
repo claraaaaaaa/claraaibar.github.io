@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clara Aibar Álvarez</h1>
-<h3 align="center">BI & Big Data Engineer | Data Science</h3>
+<h3 align="center">BI & Biomedical Engineer Student</h3>
 
 - 🔭 I’m currently studying at **Universidad Europea** the Biomedical Engineer Degree
 - 🔭 I’m currently teaching **Big Data Projects, Concurrent and Distributed Programming, Statistical Programming Languages**
