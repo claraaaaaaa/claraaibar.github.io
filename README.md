@@ -1,22 +1,19 @@
-<h1 align="center">Hi 👋, I'm Christian Sucuzhanay Arévalo</h1>
+<h1 align="center">Hi 👋, I'm Clara Aibar Álvarez</h1>
 <h3 align="center">BI & Big Data Engineer | Data Science</h3>
 
-- 🔭 I’m currently working at **Universidad Europea** as Assistant Professor
+- 🔭 I’m currently studying at **Universidad Europea** the Biomedical Engineer Degree
 - 🔭 I’m currently teaching **Big Data Projects, Concurrent and Distributed Programming, Statistical Programming Languages**
 - 🌱 I’m currently learning **MLOps, AWS Certified Solutions Architect**
-
-- 👨‍💻 Some of my fun projects are available at [https://sukuzhanay.me/]
-
-- 📝 I write tech blogs on [https://medium.com/@sukuzhanay](https://medium.com/@sukuzhanay)
+- 📝 I write tech blogs on [https://medium.com/@aibar.claraalv](https://medium.com/@aibar.claraalv)
 
 - 💬 Ask me about **Python, AWS, GCP, GitHub, Git, Docker, Spark, Hadoop, SQL, Data Engineering, BigQuery, Ionic, **
 
-- 📫 How to reach me **sukuzhanay@gmail.com**
+- 📫 How to reach me **aibar.claraalv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sucuzhanay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukuzhanay" height="30" width="40" /></a>
-<a href="https://medium.com/@sukuzhanay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sukuzhanay.data" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sucuzhanay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aibar" height="30" width="40" /></a>
+<a href="https://medium.com/@aibar.claraalv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aibar.claraalv.data" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
